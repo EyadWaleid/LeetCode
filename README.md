@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/EyadWaleid/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/EyadWaleid/LeetCode/tree/master/0027-remove-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/EyadWaleid/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Search
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/EyadWaleid/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/EyadWaleid/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
